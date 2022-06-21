@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirst_guide_to_frontend=self.webpackChunkfirst_guide_to_frontend||[]).push([[7865],{297:function(t){t.exports=JSON.parse('{"label":"hola","permalink":"/first-guide-to-frontend/blog/tags/hola","allTagsPath":"/first-guide-to-frontend/blog/tags","count":1}')}}]);
