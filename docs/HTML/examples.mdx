@@ -1,0 +1,46 @@
+---
+sidebar_position: 1
+---
+
+# 关于 HTML
+
+## 一个小例子
+
+export const HtmlExample = () => (
+  <>
+    <h3>Title</h3>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor,
+      recusandae! A dolore enim aliquid amet architecto distinctio dolores
+      temporibus ex facilis rerum, deserunt, id quidem autem illo perferendis
+      laboriosam sed!
+    </p>
+  </>
+);
+
+export const WindowWrapper = ({ children }) => (
+  <div
+    style={{
+      border: 'solid black 1px',
+      borderRadius: '4px',
+      padding: '4px',
+    }}
+  >
+    {children}
+  </div>
+);
+
+<WindowWrapper>
+  <HtmlExample />
+</WindowWrapper>
+
+上面展示了一个基本的 HTML 页面, 它的代码如下
+
+```html
+<h3>Title</h3>
+<p>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, recusandae! A
+  dolore enim aliquid amet architecto distinctio dolores temporibus ex facilis
+  rerum, deserunt, id quidem autem illo perferendis laboriosam sed!
+</p>
+```
