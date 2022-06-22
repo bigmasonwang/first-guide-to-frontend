@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirst_guide_to_frontend=self.webpackChunkfirst_guide_to_frontend||[]).push([[420],{6517:function(t){t.exports=JSON.parse('{"permalink":"/first-guide-to-frontend/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirst_guide_to_frontend=self.webpackChunkfirst_guide_to_frontend||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Blog placeholder","permalink":"/first-guide-to-frontend/blog/blog-placeholder"}]}')}}]);

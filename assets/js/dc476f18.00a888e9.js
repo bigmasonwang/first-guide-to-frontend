@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirst_guide_to_frontend=self.webpackChunkfirst_guide_to_frontend||[]).push([[700],{9638:function(e){e.exports=JSON.parse('[{"label":"docusaurus","permalink":"/first-guide-to-frontend/blog/tags/docusaurus","count":1}]')}}]);
