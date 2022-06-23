@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 关于 HTML
 
+import BrowserWindow from '@site/src/components/BrowserWindow';
+
 ## 一个小例子
 
 export const HtmlExample = () => (
@@ -30,9 +32,9 @@ export const WindowWrapper = ({ children }) => (
   </div>
 );
 
-<WindowWrapper>
+<BrowserWindow>
   <HtmlExample />
-</WindowWrapper>
+</BrowserWindow>
 
 上面展示了一个基本的 HTML 页面, 它的代码如下
 
